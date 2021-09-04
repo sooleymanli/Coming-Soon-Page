@@ -5,6 +5,6 @@
 2. [Demo (Github.io)](https://sooleymanli.github.io/Coming-Soon-Page/)
 
 ### 
-![ScreenShot](img/screenshot.gif)
+![ScreenShot](screenshot.gif)
 
 
